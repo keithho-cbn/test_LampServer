@@ -32,7 +32,7 @@
     "uniqid": "^5.2.0",
     "unzip-stream": "^0.3.0",
     "vhost": "^3.0.2",
-    "vm2": "^3.8.4"
+    "vm2": "^3.9.4"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
