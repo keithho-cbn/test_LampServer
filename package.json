@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "bin": "build/app.js",
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "alasql": "^0.4.11",
     "body-parser": "^1.19.0",
     "class-validator-jsonschema": "^1.3.1",
